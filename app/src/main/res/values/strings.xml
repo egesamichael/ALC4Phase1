@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="button1">ABOUT ALC</string>
+    <string name="button2">MY PROFILE</string>
+    <string name="welcome">Welcome To ALC 4.0</string>
+    <string name="thank_you_message">Thank you Google, Andela and Pluralsight</string>
+    <string name="full_name">Egesa Michael</string>
+    <string name="track"><b>Track:</b>  Android</string>
+    <string name="country"><b>Country:</b> Uganda</string>
+    <string name="email"><b>Email:</b>  praisewebhosts@gmail.com</string>
+    <string name="phone"><b>Phone Number:</b> +256782852435</string>
+    <string name="slack"><b>Slack Username:</b> \@Egesa_Michael</string>
+    <string name="imageDescription">Profile</string>
+</resources>
